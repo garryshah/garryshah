@@ -1,7 +1,4 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/8bFORFz.png" alt="Cloud DevOps Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi there 👋, I'm a DevOps & Cloud Consultant</h1>
 
